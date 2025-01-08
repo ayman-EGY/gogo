@@ -26,7 +26,7 @@ Download Termux from Google Play…
 
 (4) pkg install clang
 
-(5) git clone https://github.com/ItsMeAbhishekRai/gogo
+(5) git clone https://github.com/ayman-EGY/gogo.git
 
 (6) cd gogo
 
